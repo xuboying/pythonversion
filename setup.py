@@ -9,5 +9,5 @@ setup(
   url = 'https://github.com/xuboying/pyversion/', # use the URL to the github repo
   download_url = 'https://github.com/xuboying/pyversion/tarball/0.1', # I'll explain this in a second
   keywords = ['version'], # arbitrary keywords
-  classifiers = ['Programming Language :: Python'],
+  classifiers = ['Programming Language :: Python :: 2',, 'Programming Language :: Python :: 3'],
 )
