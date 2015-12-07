@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# vim: set fileencoding=utf-8
 import sys
-
 def _PrintErrorAndExit(min,max):
     if max == "":
         sys.exit("This script requires Python version %s or newer" % min)
